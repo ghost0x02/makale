@@ -1,3 +1,7 @@
+## GÜVENLİ UYDU HABERLEŞMESİ HAKKINDA ÖRNEK GÖRSEL;
+<a href="https://hizliresim.com/jxbgwfj"><img src="https://i.hizliresim.com/jxbgwfj.jpg" alt="Resim Yükle"></a>
+
+
 ## GÜVENLİ UYDU HABERLEŞMESİ HAKKINDA;
 
 ```
