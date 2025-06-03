@@ -6,7 +6,7 @@
 ## GÜVENLİ UYDU HABERLEŞMESİ HAKKINDA;
 
 ```
-Giriş ve problem tanmı - Önerilen çözüm - Makale kaynakları ve referanslar
+Giriş ve problem tanımı - Önerilen çözüm - Makale kaynakları ve referanslar
 Güvenli uydu haberleşmesi makalemizin içinde bulunmaktadır.
 
 
