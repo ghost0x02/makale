@@ -1,5 +1,5 @@
 ## GÜVENLİ UYDU HABERLEŞMESİ HAKKINDA ÖRNEK GÖRSEL;
-[url=https://hizliresim.com/jxbgwfj][img]https://i.hizliresim.com/jxbgwfj.jpg[/img][/url]
+[![Image](https://i.hizliresim.com/jxbgwfj.jpg)](https://hizliresim.com/jxbgwfj)
 
 
 ## GÜVENLİ UYDU HABERLEŞMESİ HAKKINDA;
