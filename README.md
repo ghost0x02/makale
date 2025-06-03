@@ -18,8 +18,6 @@ Kimlik Doğrulama ve Erişim Kontrolü
 -----------------------------------
 Kriptografik Güvenlik
 -----------------------------------
-Saldırı Tespiti ve Analizi
------------------------------------
 Blockchain ile Kimlik Doğrulama
 -----------------------------------
 
